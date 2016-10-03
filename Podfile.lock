@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.0.1)
+  - Fabric (1.6.9)
+  - GTToast (0.2.0)
+  - KFSwiftImageLoader (3.0.0)
+  - OAuthSwift (0.6.0)
+  - RZSquaresLoading (1.1)
+  - SCLAlertView (0.6.0)
+  - SwiftAddressBook (0.6.2)
+  - SwiftyJSON (3.1.0)
+  - TwitterCore (2.5.0):
+    - Fabric
+  - TwitterKit (2.5.0):
+    - TwitterCore (= 2.5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Fabric
+  - GTToast
+  - KFSwiftImageLoader
+  - OAuthSwift
+  - RZSquaresLoading
+  - SCLAlertView
+  - SwiftAddressBook
+  - SwiftyJSON
+  - TwitterCore
+  - TwitterKit
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  Fabric: bc5bec42cef4bcf1ee3ce0e218fc518e4b44dfbb
+  GTToast: 5f04f570acd45740c6f9b0601a2e46351c1879c8
+  KFSwiftImageLoader: c4656d614329480308b190c2b6f15015a4018ffc
+  OAuthSwift: 8895267fbd6437a52aea26541572a617c7a8c7c1
+  RZSquaresLoading: c0aefa508119a76497424829e439e1b8b0d12fdc
+  SCLAlertView: 0f6b3c23a48b4993564ff1dd3c065782e4b2b687
+  SwiftAddressBook: 88c68c6bd0c6a9cb10e5cdc80f91fd87b5e0f4ec
+  SwiftyJSON: 29b9f2a64f118c07e691667c2ba1efe536acfe0b
+  TwitterCore: 95c46af93112768a7983bd370d66023553601d01
+  TwitterKit: dd8042698b0ff5bd3066fa919b3b2b50d8eed829
+
+COCOAPODS: 0.39.0
